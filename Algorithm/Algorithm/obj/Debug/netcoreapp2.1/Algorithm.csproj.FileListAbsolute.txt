@@ -1,0 +1,11 @@
+C:\Users\jung5\source\repos\Algorithm\Algorithm\bin\Debug\netcoreapp2.1\Algorithm.deps.json
+C:\Users\jung5\source\repos\Algorithm\Algorithm\bin\Debug\netcoreapp2.1\Algorithm.runtimeconfig.json
+C:\Users\jung5\source\repos\Algorithm\Algorithm\bin\Debug\netcoreapp2.1\Algorithm.runtimeconfig.dev.json
+C:\Users\jung5\source\repos\Algorithm\Algorithm\bin\Debug\netcoreapp2.1\Algorithm.dll
+C:\Users\jung5\source\repos\Algorithm\Algorithm\bin\Debug\netcoreapp2.1\Algorithm.pdb
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.csprojAssemblyReference.cache
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.AssemblyInfoInputs.cache
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.AssemblyInfo.cs
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.dll
+C:\Users\jung5\source\repos\Algorithm\Algorithm\obj\Debug\netcoreapp2.1\Algorithm.pdb
